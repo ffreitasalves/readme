@@ -68,8 +68,12 @@ Se for muito urgente, pega meu número no Slack e me liga.
 - Não sou muito organizado com minhas anotações, nem com minha agenda.
 - Tenho dificuldade de falar não se for para ajudar alguém, o que me faz trabalhar mais horas pra tentar ajudar em algo, sem perder o foco naquilo que eu deveria estar fazendo.
 - Sinto que conheço pouco da stack da Cobli, contudo acredito que meu conhecimento pode ajudar a pensar em soluções simples.
-- Estou tentando melhorar na parte estratégica, mas ainda tenho dificuldade em separar tempo de agenda pra poder agir nisso.
 - Sinto que faço poucos benchmarks e que vou muito no feeling. Não acho que usar feeling é errado, desde que você esteja inundado de informações.
+- Eu tenho um tino muito forte para os negócios.
+- Sou muito bom em entender pessoas e relacionamentos.
+- Sou bom em fazer mudanças culturais e sinto que sou melhor em tempos de crise.
+- Para cada ano como líder, menos eu me sinto um programador :(
+
 
 ## Lado pessoal
 
